@@ -59,6 +59,13 @@ h3{
     font-family: 'Montserrat-bold';
     margin-top: 12px;
 }
+h2{
+    font-family: 'Montserrat-bold';
+    font-size: 3rem;  
+     line-height: 1.5;
+    color:azure;
+
+}
 
 p{
     color: #8f8f8f;
@@ -70,5 +77,34 @@ p{
 
 .icon:hover{
     color:#ff4c68;
+}
+
+#testimonials{
+    background-color: #f98294;
+ 
+    text-align: center;
+    color: #fff;
+
+
+}
+.testimonial-image{
+    border-radius: 100%;
+    margin: 20px;
+    width: 18%;
+}
+#press{
+    background-color: #f98294;
+    text-align: center;
+    padding-bottom: 3%;
+
+
+}
+.press-img{
+    width: 18%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
  
