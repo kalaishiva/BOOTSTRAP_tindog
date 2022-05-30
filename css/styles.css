@@ -5,6 +5,7 @@ body{
 
 #title {
     background-color: #ff4c68;
+    color:#fff;
     
 }
 .heading{
@@ -59,16 +60,22 @@ body{
     padding: 5%;
 
 }
+h1{
+    font-family: 'Montserrat-Black';
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
 
 h3{
     font-family: 'Montserrat-bold';
-    margin-top: 12px;
+    /* margin-top: 12px; */
+    font-size: 1.5rem;
 }
 h2{
     font-family: 'Montserrat-bold';
     font-size: 3rem;  
      line-height: 1.5;
-    color:azure;
+    
 
 }
 
@@ -104,7 +111,7 @@ p{
 
 
 }
-.title-img{
+.press-img{
     width: 18%;
     margin: 20px 20px 50px;
 }
@@ -136,6 +143,7 @@ p{
     font-family: 'Montserrat-bold';
     font-size:  3.5em ;
     line-height: 1.5;
+    color: #fff;
 }
 
 #footer{
@@ -144,7 +152,8 @@ p{
     padding: 7% 15%;
 }
 .footer-icon{
-    padding: 2% 3% 4% 0;
+    margin: 10% 3%;
+    
 }
 
 @media (max-width: 1028px){
