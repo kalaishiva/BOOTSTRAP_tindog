@@ -172,12 +172,11 @@ p{
 }
 
 
-.btn-primary,
-.btn-primary:active {
+.btn-color{
   background-color: #bd2d3b; 
 }
 
-.btn-primary:hover {
+.btn-color:hover {
   background-color: #f85767; 
 
 }
